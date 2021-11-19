@@ -1,6 +1,6 @@
 # assignment-2-IMD-4014-
 
-Degsign document
+Design document
 
 I chose the ikea website because I thought it was a very sleek design and something i would like to make in the futurer
 I chose the homepage and the green friday page because the homepage was require and the green friday was one of the only pages in the navigation bar that was an actual page and not a popup
