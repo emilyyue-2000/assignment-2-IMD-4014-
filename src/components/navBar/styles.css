@@ -1,0 +1,19 @@
+ul.navbarList {
+    text-size-adjust: 10;
+    text-align: left;
+    list-style-type: none;
+}
+li {
+    float: left;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    ;
+}
+
+li :hover{
+    text-decoration: underline;
+    color: rgb(41, 41, 41);
+}

@@ -1,0 +1,28 @@
+img.greenImage{
+    float: left;
+    height: auto;
+    width: 40%;
+    padding: 20px;
+}
+
+h1{
+    padding-right: 800px ;
+}
+
+ul.greenList{
+    text-decoration: underline;
+    list-style-type: none;
+    color: rgb(26, 26, 26);
+    font-weight: bold;
+    padding: 0px;
+}
+
+p{
+    padding: 20px;
+    font-size: 15px;
+    color: rgb(48, 48, 48);
+}
+
+ul.greenList :hover{
+    text-decoration: underline;
+}

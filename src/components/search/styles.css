@@ -1,0 +1,16 @@
+img.searchIcon{
+    width: 30%;
+}
+button {
+    width: 70px;
+    height: 35px;
+}
+input{
+    width: 275Px;
+    height: 30px;
+
+}
+div.searchBar {
+    float: left;
+    padding-left: 100px;
+}

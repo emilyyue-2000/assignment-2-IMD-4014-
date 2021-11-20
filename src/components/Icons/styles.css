@@ -1,0 +1,43 @@
+img.heart{
+    height: auto;
+    width: 2.5%;
+    float: right;
+    padding: 3px;
+    padding-right:7px;
+    padding-left:7px;
+}
+img.basket{
+    height: auto;
+    width: 2.5%;
+    float: right;
+    padding: 3px;
+    padding-right:7px;
+    padding-left:7px;
+}
+img.map{
+    height: auto;
+    width: 2.2%;
+    float: right;
+    padding: 3px;
+    padding-right:7px;
+    padding-left:7px;
+}
+img.person{
+    height: auto;
+    width: 1.6%;
+    float: right;
+    padding: 3px;
+    padding-right:7px;
+    padding-left:7px;
+}
+img.truck{
+    height: auto;
+    width: 2.5%;
+    float: right;
+    padding: 3px;
+    padding-right:7px;
+    padding-left:7px;
+}
+ul.iconList{
+    height: 100px;
+}
